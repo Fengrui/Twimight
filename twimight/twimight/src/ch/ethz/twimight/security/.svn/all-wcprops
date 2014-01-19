@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/162/branches/twimight_extended/src/ch/ethz/twimight/security
+END
+RevocationListEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/162/branches/twimight_extended/src/ch/ethz/twimight/security/RevocationListEntry.java
+END
+CertificateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/162/branches/twimight_extended/src/ch/ethz/twimight/security/CertificateManager.java
+END
+KeyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/162/branches/twimight_extended/src/ch/ethz/twimight/security/KeyManager.java
+END

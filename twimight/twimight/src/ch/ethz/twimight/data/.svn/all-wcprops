@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/205/branches/twimight_extended/src/ch/ethz/twimight/data
+END
+LocationDBHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/162/branches/twimight_extended/src/ch/ethz/twimight/data/LocationDBHelper.java
+END
+RevocationDBHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/162/branches/twimight_extended/src/ch/ethz/twimight/data/RevocationDBHelper.java
+END
+StatisticsDBHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/162/branches/twimight_extended/src/ch/ethz/twimight/data/StatisticsDBHelper.java
+END
+DBOpenHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/205/branches/twimight_extended/src/ch/ethz/twimight/data/DBOpenHelper.java
+END
+MacsDBHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/162/branches/twimight_extended/src/ch/ethz/twimight/data/MacsDBHelper.java
+END
+HtmlPagesDbHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/205/branches/twimight_extended/src/ch/ethz/twimight/data/HtmlPagesDbHelper.java
+END
+FriendsKeysDBHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/162/branches/twimight_extended/src/ch/ethz/twimight/data/FriendsKeysDBHelper.java
+END
